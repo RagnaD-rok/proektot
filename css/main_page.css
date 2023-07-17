@@ -58,3 +58,15 @@ li, a {
     padding-left: 23px;
     
 }
+
+.login {
+    width: 102px;
+    height: 42px;
+    border-radius: 21px;
+    position: inherit;
+    top: 14px;
+    left: 300px;
+    outline: none;
+    background: #FF48AB;
+
+}
